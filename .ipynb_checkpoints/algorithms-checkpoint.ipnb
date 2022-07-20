@@ -1,0 +1,6 @@
+import turtle
+
+def set_turtle():
+    tur = turtle.Turtle()
+    
+set_turtle()
